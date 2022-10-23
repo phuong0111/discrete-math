@@ -1,0 +1,10 @@
+0 1 1 0 1   a degree+:1 degree-:3
+0 0 0 1 0   b degree+:2 degree-:1
+0 1 0 0 0   c degree+:2 degree-:1
+0 0 1 0 1   d degree+:2 degree-:2
+1 0 0 1 0   e degree+:2 degree-:2
+a:b;c;e;
+b:d;
+c:b;
+d:c;e;
+e:a;d;

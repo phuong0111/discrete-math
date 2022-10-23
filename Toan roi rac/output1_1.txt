@@ -1,0 +1,11 @@
+0 1 0 1 1 0   a degree:3
+1 0 1 0 1 1   b degree:4
+0 1 0 1 0 1   c degree:3
+1 0 1 0 1 0   d degree:3
+1 1 0 1 0 1   e degree:4
+0 1 1 0 1 0   f degree:3
+ab;ad;ae;
+bc;be;bf;
+cd;cf;
+de;
+ef;

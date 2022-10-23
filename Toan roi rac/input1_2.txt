@@ -1,0 +1,6 @@
+6
+ab;ad;ae;
+bc;be;bf;
+cd;cf;
+de;
+ef;
